@@ -1,0 +1,15 @@
+pandas==3.0.2
+torch==2.11.0
+sentence-transformers==4.1.0
+matplotlib
+rank_bm25
+langchain==1.2.15
+langchain_core==1.2.28
+langchain_community==0.4.1
+langchain_huggingface==1.2.1
+langchain_text_splitters==1.1.1
+langchain_ollama==1.1.0
+gensim==4.3.3
+pymorphy3==2.0.3
+tqdm==4.67.1
+jupyter==1.1.1
